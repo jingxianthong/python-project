@@ -14,7 +14,7 @@ https://www.dataquest.io/course/for-loops-and-conditional-statements-in-python/
 
 
 
-project time
+programme time
 7 hours
 
 project start time
