@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/jingxianthong/python-project/main/README.md
-https://raw.githubusercontent.com/jingxianthong/python-project/main/readme%202
-https://raw.githubusercontent.com/jingxianthong/python-project/main/readme%203.md
-https://raw.githubusercontent.com/jingxianthong/python-project/main/readme%204.md
+https://github.com/jingxianthong/python-project/raw/main/projects/prpject%2001%20For%20Loops%20and%20Conditional%20Statements%20in%20Python/README.md
+https://github.com/jingxianthong/python-project/raw/main/projects/project%2002/readme%202
+https://raw.githubusercontent.com/jingxianthong/python-project/main/projects/project%2003/readme%203.md
+https://raw.githubusercontent.com/jingxianthong/python-project/main/projects/project%2004/readme%204.md
