@@ -1,6 +1,6 @@
 # morse code translator
 this project is using resberry pi zero w
-
+NOTE: this program CANNOT hander any spacebar in text, plese input like: iloveyou not i love you
 
 
 ## first is morseCODE_ Translator.py
